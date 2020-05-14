@@ -1,0 +1,22 @@
+Population size: Probability of transfer: Inoculation rate: Daily interactions: 
+Day 1    Number sick: 1       Number recovered: 0       Number susceptible: 4999    Number inoculated: 0       
+Day 2    Number sick: 1       Number recovered: 0       Number susceptible: 4999    Number inoculated: 0       
+Day 3    Number sick: 10      Number recovered: 0       Number susceptible: 4990    Number inoculated: 0       
+Day 4    Number sick: 24      Number recovered: 0       Number susceptible: 4976    Number inoculated: 0       
+Day 5    Number sick: 80      Number recovered: 1       Number susceptible: 4919    Number inoculated: 0       
+Day 6    Number sick: 208     Number recovered: 1       Number susceptible: 4791    Number inoculated: 0       
+Day 7    Number sick: 513     Number recovered: 10      Number susceptible: 4477    Number inoculated: 0       
+Day 8    Number sick: 1184    Number recovered: 24      Number susceptible: 3792    Number inoculated: 0       
+Day 9    Number sick: 2266    Number recovered: 81      Number susceptible: 2653    Number inoculated: 0       
+Day 10   Number sick: 3255    Number recovered: 209     Number susceptible: 1536    Number inoculated: 0       
+Day 11   Number sick: 3746    Number recovered: 523     Number susceptible: 731     Number inoculated: 0       
+Day 12   Number sick: 3503    Number recovered: 1208    Number susceptible: 289     Number inoculated: 0       
+Day 13   Number sick: 2517    Number recovered: 2347    Number susceptible: 136     Number inoculated: 0       
+Day 14   Number sick: 1461    Number recovered: 3464    Number susceptible: 75      Number inoculated: 0       
+Day 15   Number sick: 677     Number recovered: 4269    Number susceptible: 54      Number inoculated: 0       
+Day 16   Number sick: 246     Number recovered: 4711    Number susceptible: 43      Number inoculated: 0       
+Day 17   Number sick: 94      Number recovered: 4864    Number susceptible: 42      Number inoculated: 0       
+Day 18   Number sick: 33      Number recovered: 4925    Number susceptible: 42      Number inoculated: 0       
+Day 19   Number sick: 12      Number recovered: 4946    Number susceptible: 42      Number inoculated: 0       
+Day 20   Number sick: 1       Number recovered: 4957    Number susceptible: 42      Number inoculated: 0       
+Day 21   Number sick: 0       Number recovered: 4958    Number susceptible: 42      Number inoculated: 0       

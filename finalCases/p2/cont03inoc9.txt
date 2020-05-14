@@ -1,0 +1,13 @@
+Population size: Probability of transfer: Inoculation rate: Daily interactions: 
+Day 1    Number sick: 1       Number recovered: 0       Number susceptible: 4570    Number inoculated: 429     
+Day 2    Number sick: 1       Number recovered: 0       Number susceptible: 4179    Number inoculated: 820     
+Day 3    Number sick: 1       Number recovered: 0       Number susceptible: 3826    Number inoculated: 1173    
+Day 4    Number sick: 1       Number recovered: 0       Number susceptible: 3501    Number inoculated: 1498    
+Day 5    Number sick: 2       Number recovered: 1       Number susceptible: 3183    Number inoculated: 1814    
+Day 6    Number sick: 1       Number recovered: 1       Number susceptible: 2899    Number inoculated: 2099    
+Day 7    Number sick: 1       Number recovered: 1       Number susceptible: 2660    Number inoculated: 2338    
+Day 8    Number sick: 2       Number recovered: 1       Number susceptible: 2433    Number inoculated: 2564    
+Day 9    Number sick: 1       Number recovered: 1       Number susceptible: 2243    Number inoculated: 2755    
+Day 10   Number sick: 1       Number recovered: 1       Number susceptible: 2053    Number inoculated: 2945    
+Day 11   Number sick: 1       Number recovered: 1       Number susceptible: 1876    Number inoculated: 3122    
+Day 12   Number sick: 0       Number recovered: 2       Number susceptible: 1724    Number inoculated: 3274    
