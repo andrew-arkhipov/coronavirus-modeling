@@ -1,2 +1,2 @@
 # coronavirus-modeling
-A simple exploration of how viruses spread as a C++ exercise.
+A simple C++ exercise to explore how viruses spread.
